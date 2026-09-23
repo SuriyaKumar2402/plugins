@@ -1,0 +1,35 @@
+{
+  "name": "Code Studio AI Marketplace",
+  "owner": {
+    "name": "Code Studio"
+  },
+  "metadata": {
+    "description": "Generic AI integrations for Code Studio."
+  },
+  "plugins": [
+    {
+      "name": "github",
+      "source": "github",
+      "description": "Manage repositories, issues, pull requests, and GitHub Actions through GitHub MCP.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "gitlab",
+      "source": "gitlab",
+      "description": "Work with GitLab projects, issues, merge requests, and pipelines through GitLab MCP.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "gmail",
+      "source": "gmail",
+      "description": "Search, read, draft, and manage Gmail messages through Gmail MCP.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "deepwiki",
+      "source": "deepwiki",
+      "description": "Ask repository-aware questions through DeepWiki MCP.",
+      "version": "1.0.0"
+    }
+  ]
+}

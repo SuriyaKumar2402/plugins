@@ -1,0 +1,13 @@
+{
+  "name": "github",
+  "displayName": "GitHub",
+  "version": "1.0.0",
+  "description": "Manage repositories, issues, pull requests, and GitHub Actions through GitHub MCP.",
+  "author": {
+    "name": "Code Studio"
+  },
+  "homepage": "https://github.com/features/copilot",
+  "logo": "https://raw.githubusercontent.com/cursor/plugins/main/third_party/github/assets/logo.svg",
+  "license": "MIT",
+  "keywords": ["github", "git", "issues", "pull requests", "actions", "mcp"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gmail",
+  "displayName": "Gmail",
+  "version": "1.0.0",
+  "description": "Search, read, draft, and manage Gmail messages through Gmail MCP.",
+  "author": {
+    "name": "Code Studio"
+  },
+  "homepage": "https://www.google.com/gmail/",
+  "logo": "https://raw.githubusercontent.com/cursor/plugins/main/third_party/gmail/assets/logo.svg",
+  "license": "MIT",
+  "keywords": ["gmail", "email", "google", "productivity", "mcp"]
+}

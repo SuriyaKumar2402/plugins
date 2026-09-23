@@ -1,0 +1,12 @@
+{
+  "name": "deepwiki",
+  "displayName": "DeepWiki",
+  "version": "1.0.0",
+  "description": "Ask repository-aware questions through DeepWiki MCP.",
+  "author": {
+    "name": "Code Studio"
+  },
+  "homepage": "https://deepwiki.com/",
+  "license": "MIT",
+  "keywords": ["deepwiki", "documentation", "repository", "mcp"]
+}

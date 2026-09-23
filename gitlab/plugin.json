@@ -1,0 +1,13 @@
+{
+  "name": "gitlab",
+  "displayName": "GitLab",
+  "version": "1.0.0",
+  "description": "Work with GitLab projects, issues, merge requests, and pipelines through GitLab MCP.",
+  "author": {
+    "name": "Code Studio"
+  },
+  "homepage": "https://about.gitlab.com/",
+  "repository": "https://gitlab.com/gitlab-org/gitlab",
+  "license": "MIT",
+  "keywords": ["gitlab", "git", "issues", "merge requests", "ci", "mcp"]
+}
